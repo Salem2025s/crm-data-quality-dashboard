@@ -1,0 +1,15 @@
+column,description
+lead_id,Identifiant unique du lead.
+contact_id,Identifiant du contact rattaché au lead.
+campaign_id,Identifiant de la campagne marketing associée.
+email_clean,Email normalisé.
+phone_clean,Téléphone propre au format international E.164 lorsque le numéro est valide.
+phone_valid,Indique si le téléphone est exploitable.
+phone_issue,"Explication de l'erreur téléphone : trop court, trop long, manquant, indicatif ambigu, etc."
+phone_source,Origine du téléphone retenu : contact ou lead.
+source_final,Source marketing consolidée.
+quality_score,Score qualité CRM sur 100.
+quality_level,"Niveau qualité : Excellent, Correct, À corriger, Critique."
+campaign_ready,Indique si le lead est exploitable pour une campagne marketing.
+cleaning_priority,Priorité de correction opérationnelle.
+is_duplicate,Indique si le lead est un doublon exact ou probable.

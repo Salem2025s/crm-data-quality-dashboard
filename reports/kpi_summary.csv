@@ -1,0 +1,2 @@
+total_leads,quality_score_avg,campaign_ready_rate_pct,email_valid_rate_pct,phone_valid_rate_pct,duplicate_rate_pct,critical_leads,issues_total
+8000,75.31,93.66,93.79,14.18,0.0,0,11280
